@@ -1,3 +1,5 @@
+
+![alt text](https://github.com/patrykcode/taliwindcss-accordion/blob/master/accordion.png)
 ```
 document.addEventListener("DOMContentLoaded", () => {
     accordion();
